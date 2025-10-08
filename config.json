@@ -1,0 +1,18 @@
+{
+  "Threshold": 300,
+  "SmtpHost": "smtp.gmail.com",
+  "SmtpPort": 587,
+  "SmtpEnableSsl": true,
+  "SmtpUser": "mert.odev.test@gmail.com",
+  "SmtpPass": "rwvgoqqlbkfjzypo",
+  "EmailFrom": "mert.odev.test@gmail.com",
+  "EmailTo": "mert.odev.test@gmail.com",
+  "TestEmailOnStart": false,
+  "ExitHotkeyCtrl": true,
+  "ExitHotkeyKey": "X",
+  "LogFileName": "log.txt",
+  "StateFileName": "state.txt",
+  "EmailSubjectTemplate": "WordLogger bildirimi: {count} kelimeye ulaşıldı",
+  "EmailBodyTemplate": "Merhaba, {count} kelime eşiğine ulaşıldı.\nTarih: {date}\nLog: {log}"
+}
+

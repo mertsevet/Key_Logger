@@ -1,0 +1,11 @@
+﻿[CFG] SMTP To: mert.odev.test@gmail.com
+2025-10-08 18:37:11 deneme [COUNT=6]
+2025-10-08 18:37:13 test [COUNT=10]
+2025-10-08 18:37:15 key [COUNT=15]
+2025-10-08 18:37:17 logger [COUNT=21]
+2025-10-08 18:37:19 test [COUNT=28]
+2025-10-08 18:37:31 mert [COUNT=32]
+2025-10-08 18:37:38 dddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd [COUNT=158]
+2025-10-08 18:37:41 dddddddddddddddddddddddddddddddd [COUNT=190]
+2025-10-08 18:37:47 deneme [COUNT=196]
+[TRIGGER] Esik 300 karakter asildi, e-posta gonderimi baslatiliyor.
